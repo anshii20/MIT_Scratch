@@ -1,6 +1,8 @@
 # Scratch-like Animation Project
 
 A React-based Scratch-like animation playground with drag-and-drop functionality, multiple sprites, collision-based animation swapping, and enhanced hero mode features.
+Vercel Live Link --->  https://mit-scratch-mu.vercel.app/
+Google Drive Link --->  
 
 ## Features Implemented
 
